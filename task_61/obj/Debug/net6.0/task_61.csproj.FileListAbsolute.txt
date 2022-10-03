@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\bin\Debug\net6.0\task_61.exe
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\bin\Debug\net6.0\task_61.deps.json
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\bin\Debug\net6.0\task_61.runtimeconfig.json
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\bin\Debug\net6.0\task_61.dll
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\bin\Debug\net6.0\task_61.pdb
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.AssemblyInfo.cs
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.dll
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\refint\task_61.dll
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.pdb
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\task_61.genruntimeconfig.cache
+C:\Users\Dell\Desktop\hw_Sem24.09\task_61\obj\Debug\net6.0\ref\task_61.dll
