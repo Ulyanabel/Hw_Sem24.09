@@ -15,14 +15,12 @@ void PrintMatrix(int[,,] matrix)
                 Console.WriteLine(matrix[i, j, k] + " (" + i + ", " + j + ", " + k + ")");
 }
 
-Console.Write("Введите размер квадратной матрицы N не больше 4: ");
-int n = Convert.ToInt32(Console.ReadLine());
-while (n<2||n>4)
-{
-Console.Write("Введите размер квадратной матрицы N не больше 4: ");
-n = Convert.ToInt32(Console.ReadLine());
-}
-
-int[,,] matrix = new int[n, n, n];
+Console.Write("Введите x: ");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите y: ");
+int y = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите z: ");
+int z = Convert.ToInt32(Console.ReadLine());
+int[,,] matrix = new int[x, y, z];
 InputMatrix(matrix);
 PrintMatrix(matrix);
