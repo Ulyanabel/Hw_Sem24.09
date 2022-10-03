@@ -21,7 +21,7 @@ void ProzMatrix(int[,] MatrixOne, int[,] MatrixTwo)
         for (int j = 0; j < MatrixOne.GetLength(1); j++)
         {
             ResultMatrix[i, j] = MatrixOne[i, j] * MatrixTwo[i, j];
-            Console.Write(ResultMatrix[i, j] + " ");
+            Console.Write(ResultMatrix[i, j] + " \t");
         }
          Console.WriteLine();
     } 
@@ -38,4 +38,5 @@ NewMatrix(MatrixOne);
 Console.WriteLine();
 Console.WriteLine("Начальная матрица 2: ");
 NewMatrix(MatrixTwo);
+Console.WriteLine("Конечный результат: ");
 ProzMatrix(MatrixOne, MatrixTwo);
